@@ -15,16 +15,16 @@ The biggest challenge was checking and re-checking my work to ensure both veraci
 Moving forward I would include a peer review prior to submitting data to customers for use. This is a common practice for quality control. I also now have an organizational process asset in this repository and on my computer for future reference.
 ## Results
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/114544346/194963517-3ca44661-b728-49e6-a3c9-557c674dfc2e.png)
+![Theater_Outcomes_vs_Launch](https://github.com/scottemac00/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 - Two conclusions we can draw about the Outcomes based on Launch Date:
 1. The most successful theater campaigns occur in the spring (April through June), while campaign failure tends to peak in May and October annually. This may be due to seasonal factors such as weather or available discretionary spending money.
 
-2. Theater campaigns are seldom canceled. People love supporting the arts! 
+2. Theater campaigns are seldom canceled. People love supporting the arts!  
 
 - The Outcomes based on Goals analysis shows us that theater campaings with goals less than $5000 have best success rates and relatively low failure rates, with those campaigns between $35k and $45k, though significantly fewer in number, have slightly leower success and failure rates, respectively. It seems that if the producer keeps a goal below about $17k they will have the greatest chance for a successful campaign.
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/114544346/194963524-3b989931-ba48-47cd-8e46-441fb926bbc2.png) 
+![Outcomes_vs_Goals](https://github.com/scottemac00/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) 
 
 - Some limitations of this dataset:
 The dataset is limited in scope because it represents a relatively small amount of activity (4,115 campaigns) given the 9 year time range and global span of information. While it certainly represents a sample of Kickstarter campaign data from 2009 to 2017, it could be more directly correlated by region or country, despite Kickstarter being a global online fundraising platform. 
 
-- Some other possible tables and/or graphs that we could create might more accurately key the customer or user in to the important part of the chart. Circling or highlight a particular data point, then correlating that information might more rapidly orient the user by taking out the 'interpolation' requirement. Further refining the data to better represent where Louise wants to produce her play, the time of year, and including some additional backer information (e.g., number, percent funded) might give her beter insight into her production decision
+- Some other possible tables and/or graphs that we could create might more accurately key the customer or user in to the important part of the chart. Circling or highlight a particular data point, then correlating that information might more rapidly orient the user by taking out the 'interpolation' requirement. Further refining the data to better represent where Louise wants to produce her play, the time of year, and including some additional backer information (e.g., number, percent funded) might give her beter insight into her production decision.
