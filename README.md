@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The data presented here illuminates how different theater play Kickstarter campaigns fared in relation to their launch dates and fudning goals. Campaign outcomes are visualized based on launch dates and funding goals.
+The data presented here illuminates how different theater play Kickstarter campaigns fared in relation to their launch dates and funding goals. Campaign outcomes are visualized based on launch dates and funding goals.
 ### Purpose
 Louise took previous analysis into consideration when she made her campaign for her last Kickstarter-funded play, *Fever.* Based on this, and *Fever* coming close to its fundraising goal in a short amount of time, she asked for additional data on how different campaigns fared in relation to their launch dates and their funding goals.
 ## Analysis and Challenges
